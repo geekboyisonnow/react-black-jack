@@ -20,6 +20,7 @@ function App() {
         </a>
       </header>
       <body>
+        <h1>Black Jack</h1>
         <button class='hit'>hit</button>
         <button class='stay'>stay</button>
         <ul class='player-hand'>
