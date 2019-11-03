@@ -19,6 +19,18 @@ function App() {
           Learn React
         </a>
       </header>
+      <body>
+        <button class='hit'>hit</button>
+        <button class='stay'>stay</button>
+        <ul class='player-hand'>
+
+        </ul>
+
+        <ul class='dealer-hand'>
+
+        </ul>
+
+      </body>
     </div>
   );
 }
